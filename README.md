@@ -1,6 +1,6 @@
 # element-admin-master
 
-> A Vue.js project
+> 一个基于vue+elementui的后台管理系统模板框架
 
 ## Build Setup
 
