@@ -1,0 +1,17 @@
+*{margin: 0;padding: 0;box-sizing: border-box!important;font-family: 'Avenir', Helvetica, Arial, sans-serif;font-size: 12px;}
+html{background-color: #f1f1ef;}
+body::-webkit-scrollbar{width: 10px;background-color: #f1f1ef;position: relative;}
+body::-webkit-scrollbar-thumb{border-radius: 10px;background-color: #969689;}
+.el-submenu .el-menu-item{height: 40px;line-height: 40px;}
+.el-submenu__title{height: 45px;line-height: 45px;}
+.container-body{padding: 10px;}
+.breadcrumb-div{padding: 10px 0;}
+.page-container{min-height: calc(100vh - 115px);background-color: white;padding: 10px;position: relative;}
+.page-container-body{position: relative;}
+.tree-div{width: 380px;position: absolute;}
+.tree-right-detail{width: 100%;padding-left: 390px;}
+.card-div{width: 100%;border: 1px solid #e4e4e4;}
+.card-div>p{line-height: 40px;padding-left: 10px;background-color: #E8F4FF;font-weight: bold;border-bottom: 1px solid #e4e4e4;}
+.card-content{padding: 10px;}
+.el-form-item{margin-bottom: 18px;}
+.el-pagination{padding-top: 10px;}
